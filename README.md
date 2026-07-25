@@ -1,4 +1,5 @@
-# Enterprise Procure-to-Pay (P2P) Lifecycle
+
+![Hero Section](image_9c7b40.png)# Enterprise Procure-to-Pay (P2P) Lifecycle
 
 **Author:** Ashish Augustine  
 **Version:** 1.1.0  
@@ -9,7 +10,7 @@ This repository contains the standard operating procedure and workflow documenta
 ## Workflow Diagram
 The following swimlane diagram maps the end-to-end lifecycle from material shortage identification through to the final payment run.
 
-![Enterprise P2P Swimlane Diagram](./images/image_9deb23.png)
+![Enterprise P2P Swimlane Diagram]([./images/image_9deb23.png](https://github.com/ashish-augustine/procurement-swimlane/blob/main/images/procurement_diagram.svg)
 *(Diagram authored in Lucidchart. See the `/source` folder for the raw `.vsdx` export).*
 
 ---
