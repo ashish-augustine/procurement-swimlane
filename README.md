@@ -11,7 +11,6 @@ This repository contains the standard operating procedure and workflow documenta
 The following swimlane diagram maps the end-to-end lifecycle from material shortage identification through to the final payment run.
 
 ![Enterprise P2P Swimlane Diagram](https://github.com/user-attachments/assets/3a5ebe22-bcfc-42dc-b84e-8d250d43da8d)
-*(Diagram authored in Lucidchart. See the `/source` folder for the raw `.vsdx` export).*
 
 ---
 
