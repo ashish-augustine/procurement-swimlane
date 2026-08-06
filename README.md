@@ -1,5 +1,4 @@
-
-![Hero Section](image_9c7b40.png)# Enterprise Procure-to-Pay (P2P) Lifecycle
+# Enterprise Procure-to-Pay (P2P) Lifecycle
 
 **Author:** Ashish Augustine  
 **Version:** 1.1.0  
